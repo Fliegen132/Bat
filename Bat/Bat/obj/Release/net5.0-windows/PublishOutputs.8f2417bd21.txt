@@ -1,0 +1,5 @@
+C:\Users\Flieg\OneDrive\Рабочий стол\qwe\Bat.exe
+C:\Users\Flieg\OneDrive\Рабочий стол\qwe\Bat.dll
+C:\Users\Flieg\OneDrive\Рабочий стол\qwe\Bat.deps.json
+C:\Users\Flieg\OneDrive\Рабочий стол\qwe\Bat.runtimeconfig.json
+C:\Users\Flieg\OneDrive\Рабочий стол\qwe\Bat.pdb
